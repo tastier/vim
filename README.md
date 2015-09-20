@@ -11,4 +11,4 @@ mkdir .vim/
 
 cd .vim/
 
-Then clone all files.( OmniCppComplete sometimes can't complete the struct of C code, I don't know why...)
+Then clone all files.
